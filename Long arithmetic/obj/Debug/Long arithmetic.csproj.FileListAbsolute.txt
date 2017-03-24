@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio\Long arithmetic\Long arithmetic\bin\Debug\Long arithmetic.exe.config
+D:\Projects\Visual Studio\Long arithmetic\Long arithmetic\bin\Debug\Long arithmetic.exe
+D:\Projects\Visual Studio\Long arithmetic\Long arithmetic\bin\Debug\Long arithmetic.pdb
+D:\Projects\Visual Studio\Long arithmetic\Long arithmetic\obj\Debug\Long arithmetic.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\Long arithmetic\Long arithmetic\obj\Debug\Long arithmetic.exe
+D:\Projects\Visual Studio\Long arithmetic\Long arithmetic\obj\Debug\Long arithmetic.pdb
